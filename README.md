@@ -5,9 +5,9 @@ A News application which helps users read latest news from Vnexpress RSS
 Technical
 ---------
 
-Use Kotlin
-Use Recycler View
-Use Web View to load news
+- Use Kotlin
+- Use Recycler View
+- Use Web View to load news
 
 Screenshots
 -----------
