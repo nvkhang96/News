@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="preference_key_theme" translatable="false">preference_key_theme</string>
+
+    <string name="light_theme_value" translatable="false">light</string>
+    <string name="dark_theme_value" translatable="false">dark</string>
+    <string name="system_default_value" translatable="false">system_default</string>
+</resources>
